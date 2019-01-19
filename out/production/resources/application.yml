@@ -12,10 +12,10 @@ spring:
     settings:
       number_format: 0.##
   datasource:
-    password: cinscinsb511
-    username: root
+    password:
+    username:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://182.150.37.58:3306/university_event_analyse?useUnicode=true&characterEncoding=utf8&useSSL=false
+    url: jdbc:mysql://###/university_event_analyse?useUnicode=true&characterEncoding=utf8&useSSL=false
 server:
   port: 4000
 
